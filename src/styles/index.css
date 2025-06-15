@@ -1,7 +1,7 @@
 @import "tailwindcss";
 @import "tw-animate-css";
 
-@import "./shadcn/default.css";
+@import "./shadcn/neo-brutalism.css";
 @import "./theme.css";
 @import "./utilities.css";
 
