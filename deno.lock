@@ -20,6 +20,7 @@
     "npm:class-variance-authority@~0.7.1": "0.7.1",
     "npm:clsx@^2.1.1": "2.1.1",
     "npm:date-fns@^4.1.0": "4.1.0",
+    "npm:drizzle-kit@0.31.1": "0.31.1_esbuild@0.25.5",
     "npm:drizzle-kit@~0.31.1": "0.31.1_esbuild@0.25.5",
     "npm:drizzle-orm@~0.44.2": "0.44.2_@electric-sql+pglite@0.3.3_@libsql+client@0.15.9",
     "npm:lucide-react@0.511": "0.511.0_react@19.1.0",
